@@ -56,6 +56,7 @@ The script creates a CSV containing run configuration and epoch metrics per row.
 
 - Optional GPU support.
 - Automatic dataset downloading and unpacking.
-- Automatic splitting the data into a training- and validation set. 
+- Automatic splitting the data into a training- and validation set.
+- Exporting a '.pth file' with the weights.
 
 ---
